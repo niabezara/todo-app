@@ -96,7 +96,7 @@ function App() {
               type="submit"
               onClick={handleClick}
             >
-              <img src="/Frame 9.svg" alt="" />
+              <img src="/Frame.svg" alt="" />
             </button>
           </div>
           <ul className="list">
